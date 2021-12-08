@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ll7_0r@e*ip*fl(70%yo4v6=bhkos%2nn@6=0izf-y(4b@x_44
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://ahmedkorany1994.github.io/Django_app_web_JAF/]
 
 
 # Application definition
